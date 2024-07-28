@@ -3,9 +3,6 @@
 </p>
 
 
-
--------
-
 <p align="center">
   <img 
     src=".github/assets/preview.png"
